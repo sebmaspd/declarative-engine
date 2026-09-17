@@ -16,4 +16,7 @@ Quick evaluations for rules engine the declarative way using OPA (Open Policy Ag
 
 https://play.openpolicyagent.org/  
 
-Paste the .rego (without `package` name) into the playground, enter the INPUT { "<input.var_name>" : <value> }, then click `Evaluate` to see the OUTPUT.
+Paste the `.rego` file (without `package` name) into the playground, enter the `INPUT` { "<input.var_name>" : <value> }, then click `Evaluate` to see the `OUTPUT`.  
+
+![opa-rego-screenshot](./opa-rego-screenshot.png)
+
